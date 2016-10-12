@@ -2,5 +2,5 @@
 Author: Robert Lee
 """
 
-def add(*args):
+def addition(*args):
     return sum(args)
